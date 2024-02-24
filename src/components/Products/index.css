@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.Products-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.product-image {
+}
